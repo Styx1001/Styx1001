@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<marquee direction="right">ข้อความวิ่งจากซ้ายไปขวา</marquee> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning python
